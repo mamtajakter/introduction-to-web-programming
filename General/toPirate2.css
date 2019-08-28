@@ -1,0 +1,68 @@
+body {
+  width: 800px;
+}
+
+/* buttons groups */
+
+button {
+  float: left;
+  font-size: 20px;
+}
+
+.btn0,.btn4,.btn8, .btn12, .btn16 {
+  /* Green */
+  background-color: #4CAF50;
+  color: white;
+}
+
+.btn1,.btn5,.btn9,.btn13, .btn17 {
+  /* Blue */
+  background-color: #008CBA;
+  color: white;
+}
+
+.btn2,.btn6,.btn10,.btn14, .btn18 {
+  /* Red */
+  background-color: #f44336;
+  color: white;
+}
+
+.btn3,.btn7,.btn11,.btn15, .btn19 {
+  background-color: yellow;
+  color: black;
+}
+
+.category {
+  font-size: 150%;
+  font-weight: bold;
+  color: #DD0000;
+}
+
+/* style rule for the Clear button */
+
+#clear {
+  font-size: 18px;
+  background-color: #4CAF50;
+  color: white;
+  padding: 3px;
+}
+
+h3 {
+  width: 600px;
+}
+
+hr {
+  width: auto;
+}
+
+img {
+  width: 200px;
+  float: right;
+  border: thin solid;
+  padding: .2em;
+  margin: .2em;
+}
+
+textarea {
+  font-size: 24px;
+}
